@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule redtrial-kavana96.c9users.io/(.*) /index.php [R=403,NC,L]
